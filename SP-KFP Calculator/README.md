@@ -103,12 +103,6 @@ yourself:
 No scipy / pandas / R is required — the fits are implemented in numpy.  (scipy
 is used by the test suite only, for an independent cross-check.)
 
-On this machine the environment `D:\Anaconda3\python.exe` already has
-everything:
-
-```
-D:\Anaconda3\python.exe spkfp_app.py
-```
 
 ---
 
