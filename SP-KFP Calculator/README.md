@@ -222,12 +222,6 @@ flux    = k_app · Plateau
 SE²     = Plateau²·SE(k_app)² + k_app²·SE(Plateau)²
 ```
 
-`k_app` and `Plateau` are treated as **independent** parameters, so their
-covariance is **not** propagated.  (The least-squares estimates of the two
-parameters are in fact strongly correlated — on the template data
-ρ ≈ −0.996 — so this choice gives a deliberately conservative, larger standard
-error; the fitted covariance is still computed and kept in
-`FitResult.cov_kp` / `FluxResult.cov_kp`, it is just not used in the SE.)
 
 ### Criterion 1
 
