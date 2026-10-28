@@ -238,27 +238,9 @@ lines are shown in the flux panel and saved in the export.
 
 ```
 spkfp_app.py              the application (GUI + analysis + --check CLI)
-tests/test_spkfp.py       automated tests (55 assertions) on modified templates
-screenshots/              gui_loaded.png, gui_flux.png, dialog_select.png,
-                          fitted_curves.png
 README.md                 this document
 ```
 
-![GUI after loading a file](screenshots/gui_loaded.png)
-
-![Flux selection dialog](screenshots/dialog_select.png)
-
-![Saved figure](screenshots/fitted_curves.png)
-
-Run the tests (they build modified copies of the template in a temp folder):
-
-```
-D:\Anaconda3\python.exe tests\test_spkfp.py "D:\Desktop\Template for SP-KFP.xlsx"
-```
-
-Expected output: `56 passed, 0 failed`.
-
----
 
 ## 7. Reference result for the supplied template
 
