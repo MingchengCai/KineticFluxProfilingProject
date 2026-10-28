@@ -267,6 +267,5 @@ Plateau        = 1.855e4 ± 2.84e3 pmole/10⁶ cells
 Flux           = 1915 ± 481.5 pmole/10⁶ cells/h   (R² = 0.994, n = 21)
 ```
 
-Note: the fitted Plateau equals 132 % of the pooled pool size, i.e. the labeling
-had not reached its plateau inside the 6 h window and the flux relies on
+Note: the labeling had not reached its plateau inside the 6 h window and the flux relies on
 extrapolation — the panel says so explicitly.
