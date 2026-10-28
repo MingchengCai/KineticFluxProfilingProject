@@ -12,6 +12,9 @@ python spkfp_app.py --check data.xlsx                   # audit + k_app table
 python spkfp_app.py --check data.xlsx --pt IMP --flux AMP,ADP,ATP
 ```
 
+<img width="1092" height="936" alt="SP-KFP GUI" src="https://github.com/user-attachments/assets/5dabaeb3-70da-483b-9de1-1a5cb8b58acc" />
+
+
 ---
 
 ## 1. Requirements — installed automatically
